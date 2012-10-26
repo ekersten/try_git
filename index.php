@@ -15,5 +15,6 @@
 			<li>item 4</li>
 			<li>test item</li>
 		</ul>
+		<div class="footer">This is the footer</div>
 	</body>
 </html>
