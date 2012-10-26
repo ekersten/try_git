@@ -6,7 +6,7 @@
 	</head>
 	<body>
 		<h1>Test page</h1>
-		<p>Sample text on the test page</p>
+		<p>Sample text on the test page (modified on master branch)</p>
 		<p>Today is <?php echo date('m/d/Y'); ?></p>
 		<ul>
 			<li>item 1</li>
