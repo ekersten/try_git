@@ -7,7 +7,7 @@
 	<body>
 		<h1>Test page</h1>
 		<p>Sample text on the test page (modified on master branch)</p>
-		<p>Today is <?php echo date('m/d/Y'); ?></p>
+		<p>Today is <?php echo date('m/d/Y'); ?> <span class="small">( * local server time )</span></p>
 		<ul>
 			<li>item 1</li>
 			<li>item 2</li>
