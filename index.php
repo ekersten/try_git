@@ -3,6 +3,7 @@
 <html>
 	<head>
 		<title>Test page</title>
+		<link rel="stylesheet" type="text/css" href="css/style.css"/>
 	</head>
 	<body>
 		<h1>Test page</h1>
@@ -16,5 +17,6 @@
 			<li>test item</li>
 		</ul>
 		<div class="footer">This is the footer</div>
+		<script type="text/javascript" src="js/script.js"></script>
 	</body>
 </html>
